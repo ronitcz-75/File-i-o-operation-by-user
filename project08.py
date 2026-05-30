@@ -1,4 +1,4 @@
-#file name reader example of directory
+#File name reader example of directory
 def file_reader():
     operator=input(" Enter file name which you right: ")
     lst=["newfile.py"] # example file name 
@@ -22,3 +22,5 @@ def file_writee():
   s.close()
 file_reader()
 file_writee()
+
+#File reading and writing process.
